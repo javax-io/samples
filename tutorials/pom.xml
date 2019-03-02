@@ -7,7 +7,7 @@
   </parent>
   
   <modelVersion>4.0.0</modelVersion>
-  <artifactId>lambda-tutorials</artifactId>
+  <artifactId>javax-tutorials</artifactId>
   <packaging>jar</packaging>
   <name>Lambda tutorials</name>
   
