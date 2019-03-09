@@ -1,0 +1,9 @@
+version : 0.1
+runtime : java8
+collections:
+    - id: templates
+      title: Templates
+      description: blah blah
+       
+    - id: tutorials
+      title: Tutorials
