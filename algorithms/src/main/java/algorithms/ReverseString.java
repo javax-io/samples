@@ -1,4 +1,4 @@
-package tutorials;
+package algorithms;
 
 import java.util.StringTokenizer;
 import java.util.function.Function;

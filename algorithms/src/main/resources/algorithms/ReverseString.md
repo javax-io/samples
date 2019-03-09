@@ -1,6 +1,6 @@
-```javax-summary
+```javax-snippet
 {
-    "title":"Reverse words from a string",
+    "title":"Reverse words",
     "description": "",
     "input": "The output will be reversed."
 }

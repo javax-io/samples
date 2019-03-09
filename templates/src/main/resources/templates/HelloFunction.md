@@ -1,9 +1,8 @@
-```javax-summary
+```javax-snippet
 {
     "title":"Hello Function",
     "description":"",
-    "input": "",
-    "narrated": true
+    "input": ""
 }
 ```
 ### Quick starts
@@ -11,4 +10,6 @@ This is a simple program just prints out **Hello Function!** when executed. It e
 
 * To make a copy of this code, just start editing.
 * To change [json](https://www.json.org) input, just click input editor.
-* To execute and see the result, just click **Run** button.
+* To execute the code, just click **Run** button.
+* To activate code suggestion, just press **Ctrl + Space**
+* To learn more about java language itself, just click [Java™ Tutorials](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)

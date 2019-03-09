@@ -20,6 +20,7 @@
   <modules>
     <module>templates</module>
     <module>tutorials</module>
+    <module>algorithms</module>
   </modules>
   <dependencyManagement>
     <dependencies>
