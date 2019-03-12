@@ -3,7 +3,7 @@ runtime : java8
 collections:
     - id: templates
       title: Templates
-      description: blah blah
+      description: Quick starts
        
     - id: tutorials
       title: Tutorials
