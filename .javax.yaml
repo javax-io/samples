@@ -7,3 +7,8 @@ collections:
        
     - id: tutorials
       title: Tutorials
+      description: Popular Java tutorials
+
+    - id: algorithms
+      title: Algorithms
+      description: Popular algorithms in Java 
