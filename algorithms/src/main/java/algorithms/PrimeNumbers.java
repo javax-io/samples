@@ -12,6 +12,7 @@ public class PrimeNumbers implements Function<Integer, Integer> {
 		int count = 0;
 	    for(int n = 2; n <= num; n ++) {
 	    	if(isPrime(n)) {
+	    		count ++;
 	    		System.out.println(n);
 	    	}
 	    } 
