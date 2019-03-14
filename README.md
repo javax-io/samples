@@ -14,3 +14,10 @@ An executable java class + an overview in marked down format. A marked down has 
     "input": ""
 }
 ```
+
+### Coding topics
+- Basic java language
+- Open source courses (MIT, Standford...)
+- Tutorials for popular java libraries: Guava, Jersey, ...
+- Basic and Advance algorithms
+- Popular interview questions
