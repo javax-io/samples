@@ -12,4 +12,8 @@ This is a simple program just prints out **Hello World!** when executed. It has 
 * To change [json](https://www.json.org) input, just click input editor.
 * To execute the code, just click **Run** button.
 * To activate code suggestion, just press **Ctrl + Space**
-* To learn more about java language itself, just click [Java™ Tutorials](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
+
+### Learning the language
+
+* [Java™ Tutorials](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
+* [ Introduction to Programming in Java](https://introcs.cs.princeton.edu/java/home)
