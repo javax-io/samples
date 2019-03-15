@@ -2,7 +2,7 @@
 {
     "title":"Conditionals and Loops",
     "description":"",
-    "input": [""],
+    "input": ["2", "31"],
     "tags" : ["princeton", "introcs"]
 }
 ```
