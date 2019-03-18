@@ -14,8 +14,10 @@ public class RegularExpressions {
 		//find or test for matches with matcher.matches()
 		int found = 0;
         while (matcher.find()) {
-        	System.out.println("Found text: [" + matcher.group() + "] starting at: [" + matcher.start() + "] ending at: [" + matcher.end() + "]");
-            //capture groups if any
+        	System.out.println("Found text: [" + matcher.group()
+        		+ "] starting at: [" + matcher.start() + "] ending at: [" + matcher.end() + "]");
+            
+        	//capture groups if any
             for(int i = 1; i <= matcher.groupCount(); i ++) {
                 System.out.println("Group: [" + i + "]: " + matcher.group(i));
             }
