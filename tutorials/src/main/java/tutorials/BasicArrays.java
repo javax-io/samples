@@ -2,7 +2,7 @@ package tutorials;
 /**
  *
  */
-public class Arrays {
+public class BasicArrays {
 	public static void main(String[] args) {
 	    int n = Integer.valueOf(args[0]);
 	    double[] a;                    // declare the array
