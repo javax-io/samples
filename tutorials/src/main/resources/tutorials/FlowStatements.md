@@ -3,7 +3,7 @@
     "title":"Conditionals and Loops",
     "description":"",
     "input": ["2", "31"],
-    "tags" : ["princeton", "introcs"]
+    "tags" : ["princeton", "introcs", "loop"]
 }
 ```
 ### Conditionals and Loops
