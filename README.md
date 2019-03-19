@@ -28,3 +28,6 @@ Code example is manually written at the moment, follow these steps to have good 
 - Summary the topic in md file with **Origin** link
 - Summary the source code
 - Tags
+
+## Request for new runtime/stack
+By default javax.io just supports *java8 + guava + jackson + guice + jaxrs*. Any sample code requires different library need to submit a request for new stack to be build.
