@@ -1,0 +1,12 @@
+```javax-snippet
+{
+    "title":"Lambda Expressions",
+    "description":"",
+    "input": ["abc", "a", "b", "ab"],
+    "tags" : ["lambda"]
+}
+```
+### Lambda Expressions
+One issue with anonymous classes is that if the implementation of your anonymous class is very simple, such as an interface that contains only one method, then the syntax of anonymous classes may seem unwieldy and unclear. In these cases, you're usually trying to pass functionality as an argument to another method, such as what action should be taken when someone clicks a button. Lambda expressions enable you to do this, to treat functionality as method argument, or code as data.
+
+**Origin:** [https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
