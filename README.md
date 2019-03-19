@@ -21,3 +21,9 @@ An executable java class + an overview in marked down format. A marked down has 
 - Tutorials for popular java libraries: Guava, Jersey, ...
 - Basic and Advance algorithms
 - Popular interview questions
+
+### Produce code example
+Code example is manually index at the moment, follow these steps to have good content:
+- Start with a good topic from book, web...
+- Summary the topic in md file with **Origin** link
+- Summary the source code
