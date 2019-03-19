@@ -2,7 +2,7 @@
 {
     "title":"Arrays",
     "description":"",
-    "input": [""],
+    "input": ["5"],
     "tags" : ["princeton", "introcs"]
 }
 ```

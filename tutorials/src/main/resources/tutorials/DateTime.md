@@ -1,8 +1,8 @@
 ```javax-snippet
 {
-    "title":"Data Time",
+    "title":"Date Time",
     "description":"",
-    "input": ["foo", "foofoofoo"],
+    "input": [""],
     "tags" : ["date","time"]
 }
 ```
