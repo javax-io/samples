@@ -21,6 +21,8 @@
     <module>templates</module>
     <module>tutorials</module>
     <module>algorithms</module>
+    <module>interviews</module>
+    <module>practices</module>
   </modules>
   <dependencyManagement>
     <dependencies>

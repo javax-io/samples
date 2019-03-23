@@ -3,12 +3,20 @@ runtime : java8
 collections:
     - id: templates
       title: Templates
-      description: Quick starts
+      description: Quickstart templates
        
     - id: tutorials
       title: Tutorials
-      description: Popular Java tutorials
+      description: The practical guides for programmers
 
     - id: algorithms
       title: Algorithms
-      description: Popular algorithms in Java 
+      description: The most popular algorithms and data structures
+
+    - id: interviews
+      title: Interviews
+      description: Code interviewed from well known companies
+
+    - id: practices
+      title: Practices
+      description: Challenge yourself and fine tune yours skills
