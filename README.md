@@ -19,7 +19,7 @@ An executable java class + an overview in marked down format. A marked down has 
 - Basic java language
 - Open source courses (MIT, Standford...)
 - Tutorials for popular java libraries: Guava, Jersey, Guice, ...
-- Basic and Advance algorithms, ex: [Algorithm design manual](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf), [Topcoder tutorials](https://www.topcoder.com/community/competitive-programming/tutorials)
+- Basic and Advance algorithms, ex: [Algorithm design manual](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf), [Topcoder tutorials](https://www.topcoder.com/community/competitive-programming/tutorials), [Princeton code](https://introcs.cs.princeton.edu/java/code)
 - Popular interview questions
 
 ## Produce code example
