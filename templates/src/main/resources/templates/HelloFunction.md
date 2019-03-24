@@ -16,4 +16,4 @@ This is a simple program just prints out **Hello Function!** when executed. It e
 ### Learning the language
 
 * [Java™ Tutorials](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
-* [ Introduction to Programming in Java](https://introcs.cs.princeton.edu/java/home)
+* [Introduction to Programming in Java](https://introcs.cs.princeton.edu/java/home)
