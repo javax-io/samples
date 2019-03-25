@@ -6,14 +6,48 @@
 }
 ```
 ### Quick starts
-This is a simple program just prints out **Hello World!** when executed. It has `public static void main(String[] args)` function.
+This is a simple program just prints out **Hello World!** when executed. Here is the break down of source code structure.
 
-* To make a copy of this code, just start editing.
-* To change [json](https://www.json.org) input, just click input editor.
-* To execute the code, just click **Run** button.
-* To activate code suggestion, just press **Ctrl + Space**
+*An optional package name but highly recommended to have one:*
+
+```
+package templates;
+```
+
+*Import of all dependencies being use by the program. This example doesn't have any otherwise using import keyword*
+
+```
+import java.util.*;
+```
+
+*A main class with public keyword and an executable main method:*
+
+```
+public class HelloWorld {
+    public static void main(String[] args) {
+    }
+}
+```
+
+*Comments are ignored by the compiler but are useful to other programmers:*
+
+```
+/* block comment */
+/** documentation comment */
+// single line comment
+```
+
+*Run program*
+>It's supper easy to just click **Run** button. Depends on yours `main(String[] args)` method, extra parameters might be needed. Just click **Input** button to enter a [json](https://www.json.org) array.
+
+*Code assistant*
+>Code assistant is automatically activate when you typing `.` or `@`. To activate manually, press **Ctrl + Space**
+
+*Save program*
+>Changes to your code is automatically saved to browser local storage.
 
 ### Learning the language
+Some good resources can help you get started:
 
 * [Java™ Tutorials](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
 * [ Introduction to Programming in Java](https://introcs.cs.princeton.edu/java/home)
