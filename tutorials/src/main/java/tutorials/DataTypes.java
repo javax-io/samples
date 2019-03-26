@@ -14,6 +14,7 @@ public class DataTypes {
 	    
 	    float  f  = 1.0f;
 	    double d  = 1.0;
+	    String ss = "String is immutable and special type";
 	    
 	    //print all
 	    System.out.println("o = " + o);
@@ -24,5 +25,6 @@ public class DataTypes {
 	    System.out.println("l = " + l);
 	    System.out.println("f = " + f);
 	    System.out.println("d = " + d);
+	    System.out.println(ss);
 	}
 }
