@@ -3,10 +3,18 @@
     "title":"Lambda Expressions",
     "description":"",
     "input": ["abc", "a", "b", "ab"],
-    "tags" : ["lambda"]
+    "tags" : ["oo"]
 }
 ```
 ### Lambda Expressions
-One issue with anonymous classes is that if the implementation of your anonymous class is very simple, such as an interface that contains only one method, then the syntax of anonymous classes may seem unwieldy and unclear. In these cases, you're usually trying to pass functionality as an argument to another method, such as what action should be taken when someone clicks a button. Lambda expressions enable you to do this, to treat functionality as method argument, or code as data.
+Lambda expression is an express of an instance of a single abstract method interface as a function. It's a modernize way of using anonymous class to implement that same interface.
 
-**Origin:** [https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
+**Syntax**
+>A comma-separated list of formal parameters enclosed in parentheses, the arrow token `->` and a body, which consists of a single expression or a statement block
+
+```
+//define a runnable lambda function
+Runnable hello = () -> System.out.println("Hello World");
+//invoke run
+hello.run();
+```

@@ -9,7 +9,7 @@ import java.util.Comparator;
 public class LambdaExpressions {
 	public static void main(String[] args) {
 		//using a lambda function instead of implement a comparator.
-		Comparator<String> c = (s1, s2) -> {
+		Comparator<String> c = (String s1, String s2) -> {
 			return s1.length() - s2.length();
 		};
 		

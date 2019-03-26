@@ -8,19 +8,22 @@
 ### Quick starts
 This is a simple program just prints out **Hello Function!** when executed. Here is the break down of source code structure.
 
-*An optional package name but highly recommended to have one*
+**package**
+>package is optional but highly recommended to have one.
 
 ```
 package templates;
 ```
 
-*Import of all dependencies being use by the program using import keyword*
+**import**
+>All dependencies being use by the program using import keyword
 
 ```
 import java.util.function.Function;
 ```
 
-*A main class with public keyword and extends `java.util.function.Function` function*
+**class**
+>A main class with public keyword and extends `java.util.function.Function` function
 
 ```
 public class HelloFunction implements Function<String, String> {
@@ -30,7 +33,8 @@ public class HelloFunction implements Function<String, String> {
 }
 ```
 
-*Comments are ignored by the compiler but are useful to other programmers*
+**Comments**
+>Comments are ignored by the compiler but are useful to other programmers
 
 ```
 /* block comment */
@@ -38,13 +42,13 @@ public class HelloFunction implements Function<String, String> {
 // single line comment
 ```
 
-*Run program*
+**Run program**
 >It's supper easy to just click **Run** button. Depends on yours function, extra parameters might be needed. Just click **Input** button to enter a [json](https://www.json.org) object.
 
-*Code assistant*
+**Code assistant**
 >Code assistant is automatically activate when you typing `.` or `@`. To activate manually, press **Ctrl + Space**
 
-*Save program*
+**Save program**
 >Changes to your code is automatically saved to browser local storage.
 
 ### Learning the language

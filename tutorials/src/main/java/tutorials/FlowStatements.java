@@ -1,10 +1,10 @@
 package tutorials;
 /**
- * 
+ * This sample print a month calendar with input: firstDay and number of days per month.
  */
 public class FlowStatements {
     /**
-     * Using if statememnt to return day of week
+     * Using if statement to return day of week
      */
     static String dayOfWeek(int day) {
         if(day == 0) {
@@ -29,12 +29,12 @@ public class FlowStatements {
     //print with addition string to make len
     static void printTab(String s, int len) {
         System.out.print(s);
-        while(len -- > s.length()) {
+        while(len-- > s.length()) {
             System.out.print(" ");
         }
     }
     
-    //print a month calendar with first day and number of day of month
+    //print a month calendar with first day and number of days per month
 	public static void main(String[] args) {
 	    int firstDay = Integer.valueOf(args[0]);//0-6
 	    int daysOfMonth = Integer.valueOf(args[1]);

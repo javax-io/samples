@@ -3,10 +3,26 @@
     "title":"Regular Expressions",
     "description":"",
     "input": ["foo", "foofoofoo"],
-    "tags" : ["regex"]
+    "tags" : ["oo", "regex"]
 }
 ```
 ### Regular Expressions
-This lesson explains how to use the java.util.regex API for pattern matching with regular expressions. Although the syntax accepted by this package is similar to the Perl programming language, knowledge of Perl is not a prerequisite. This lesson starts with the basics, and gradually builds to cover more advanced techniques.
+Regular expressions are a way to describe a set of strings based on common characteristics shared by each string in the set. They can be used to search, edit, or manipulate text and data. It's represented by `java.util.regex` package.
 
-**Origin:** [https://docs.oracle.com/javase/tutorial/essential/regex](https://docs.oracle.com/javase/tutorial/essential/regex)
+**Pattern**
+>A compiled representation of a regular expression. A specified string must first be compiled into an instance of this class. The resulting pattern can then be used to create a Matcher object that can match arbitrary character sequences against the regular expression.
+
+```
+Pattern p = Pattern.compile("a*b");
+```
+
+**Matcher**
+>An engine that performs match operations on a character sequence by interpreting a Pattern.
+
+```
+Matcher m = p.matcher("aaaaab");
+boolean b = m.matches();
+```
+
+**PatternSyntaxException**
+>Unchecked exception thrown to indicate a syntax error in a regular-expression pattern.

@@ -3,7 +3,7 @@
     "title":"Data Types",
     "description":"",
     "input": [""],
-    "tags" : ["princeton", "introcs"]
+    "tags" : ["oo"]
 }
 ```
 ### Data Types
