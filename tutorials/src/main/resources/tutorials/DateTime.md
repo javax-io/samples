@@ -6,7 +6,7 @@
     "tags" : ["oo"]
 }
 ```
-### Date-Time Overview
+### Date-Time
 `java.time` package provides a rich set of utilities to represent Date-Time, based on ISO calendar following Gregorian rules.
 
 **Instant**
