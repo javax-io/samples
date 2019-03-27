@@ -8,21 +8,21 @@
 ### Quick starts
 This is a simple program just prints out **Hello World!** when executed. Here is the break down of source code structure.
 
-**package**
+**Package**
 >package is optional but highly recommended to have one.
 
 ```
 package templates;
 ```
 
-**import**
+**Import**
 >All dependencies being use by the program. This example doesn't have any otherwise using import keyword.
 
 ```
 import java.util.*;
 ```
 
-**class**
+**Class**
 >A main class with public keyword and an executable main method.
 
 ```

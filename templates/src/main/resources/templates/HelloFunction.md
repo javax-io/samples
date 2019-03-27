@@ -8,21 +8,21 @@
 ### Quick starts
 This is a simple program just prints out **Hello Function!** when executed. Here is the break down of source code structure.
 
-**package**
+**Package**
 >package is optional but highly recommended to have one.
 
 ```
 package templates;
 ```
 
-**import**
+**Import**
 >All dependencies being use by the program using import keyword
 
 ```
 import java.util.function.Function;
 ```
 
-**class**
+**Class**
 >A main class with public keyword and extends `java.util.function.Function` function
 
 ```
