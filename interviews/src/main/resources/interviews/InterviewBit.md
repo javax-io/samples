@@ -1,12 +1,12 @@
 ```javax-snippet
 {
-    "title":"Coming Soon",
+    "title":"Interview Bit",
     "description": "",
     "tags": ["interview"]
 }
 ```
-### Coming Soon
-We are currently indexing the problem sets. In the meantime, try from these links instead:
+### Interview Bit
+Interview Bit has good collection of interview questions from most of the popular companies in the Valley. These are some shortcuts:
 
 - [Google Interview Questions](https://www.interviewbit.com/google-interview-questions#questions)
 - [Facebook Interview Questions](https://www.interviewbit.com/facebook-interview-questions#questions)
