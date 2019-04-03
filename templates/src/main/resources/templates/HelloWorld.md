@@ -45,7 +45,7 @@ public class HelloWorld {
 >It's supper easy to just click **Run** button. Depends on yours `main(String[] args)` method, extra parameters might be needed. Just click **Input** button to enter a [json](https://www.json.org) array.
 
 **Code assistant**
->Code assistant is automatically activate when you typing `.` or `@`. To activate manually, press **Ctrl + Space**
+>Code assistant is automatically activated when pressing `.` or `@`. To activate manually, press **Ctrl + Space**
 
 **Save program**
 >Changes to your code is automatically saved to browser local storage.
