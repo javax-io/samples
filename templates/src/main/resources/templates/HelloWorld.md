@@ -1,4 +1,4 @@
-```javax-snippet
+```javax-meta
 {
     "title":"Hello World",
     "description":"",
@@ -42,7 +42,7 @@ public class HelloWorld {
 ```
 
 **Run program**
->It's supper easy to just click **Run** button. Depends on yours `main(String[] args)` method, extra parameters might be needed. Just click **Input** button to enter a [json](https://www.json.org) array.
+>It's super easy to just click **Run** button. Depends on yours `main(String[] args)` method, extra parameters might be needed. Just click **Input** button to enter a [json](https://www.json.org) array.
 
 **Code assistant**
 >Code assistant is automatically activated when pressing `.` or `@`. To activate manually, press **Ctrl + Space**

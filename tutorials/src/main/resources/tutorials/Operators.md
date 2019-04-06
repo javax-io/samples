@@ -1,4 +1,4 @@
-```javax-snippet
+```javax-meta
 {
     "title":"Operators",
     "description":"",

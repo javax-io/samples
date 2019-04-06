@@ -1,4 +1,4 @@
-```javax-snippet
+```javax-meta
 {
     "title":"Date Time",
     "description":"",

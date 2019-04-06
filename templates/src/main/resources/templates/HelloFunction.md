@@ -1,4 +1,4 @@
-```javax-snippet
+```javax-meta
 {
     "title":"Hello Function",
     "description":"",
@@ -43,7 +43,7 @@ public class HelloFunction implements Function<String, String> {
 ```
 
 **Run program**
->It's supper easy to just click **Run** button. Depends on yours function, extra parameters might be needed. Just click **Input** button to enter a [json](https://www.json.org) object.
+>It's super easy to just click **Run** button. Depends on yours function, extra parameters might be needed. Just click **Input** button to enter a [json](https://www.json.org) object.
 
 **Code assistant**
 >Code assistant is automatically activated when pressing `.` or `@`. To activate manually, press **Ctrl + Space**
